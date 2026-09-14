@@ -1,2 +1,2 @@
 # HTML
-aqui vam los codigos de HTML
+aqui van los codigos de HTML
